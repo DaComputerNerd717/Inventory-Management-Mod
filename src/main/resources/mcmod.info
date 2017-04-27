@@ -1,0 +1,16 @@
+[
+{
+  "modid": "invmgmt",
+  "name": "Inventory Management Mod",
+  "description": "A simple mod to allow better control over inventories in 1.7.10.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DaComputerNerd"],
+  "credits": "Azanor, Vazkii, Turkey2349, TLJGames, and Lyinginbedmon for inspiring me to make mods",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
